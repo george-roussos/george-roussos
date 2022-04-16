@@ -2,9 +2,9 @@
 
 I am a software developer with a diverse professional background and personal experience in web development. I started in concatenative speech synthesis, moved to an AI-driven role working on neural speech synthesis solutions using Python and popular deep learning techniques and now I have turned my sights to the world of fullstack development! I am mostly focusing on JavaScript, TypeScript and the MERN stack. I am interested in both front- and back- end development. Thanks for stopping by!
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=george-roussos&show_icons=true&theme=radical"/>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=george-roussos&show_icons=true&theme=radical"/>
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-roussos&layout=compact"/>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-roussos&layout=compact"/>
 
 &nbsp; &nbsp;
 
