@@ -4,7 +4,7 @@ I am a software developer with a diverse professional background and personal ex
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=george-roussos&show_icons=true&theme=radical"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-roussos&layout=compact"/>
+<img align="left" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-roussos&layout=compact"/>
 
 &nbsp;
 
